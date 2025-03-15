@@ -61,7 +61,7 @@ node index.js
 
 ### Follow the Prompts
 
-1. The script will ask you to confirm that you’ve followed `@Allcryptoguides` on X. Type `yes` to proceed.
+1. The script will ask you to confirm that you’ve followed `[Allcryptoguides](https://x.com/Allcryptoguides)` on X. Type `yes` to proceed.
 2. Enter the number of transactions you want to send.
 3. Enter the amount of MON to send per transaction (minimum: 0.01, maximum: 10).
 
@@ -74,8 +74,8 @@ node index.js
 
 Once all transactions are confirmed, the script will display a completion message:
 Batch transaction process completed!
-Built by @Allcryptoguides
- with @defi_imam
+Built by [Allcryptoguides](https://x.com/Allcryptoguides)
+ with [Defi_imam](https://x.com/Defi_imam)
 
 
 
